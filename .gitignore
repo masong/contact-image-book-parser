@@ -16,3 +16,6 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+# not trying to upload my contact book
+*.png
